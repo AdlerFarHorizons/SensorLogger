@@ -3,3 +3,5 @@ Initial version from Jeff Wiedemann's code of May 2014, written for Teensy 3.0 (
 Modified to use a separate Teensy version of the HMC5883L library
 incorporating minor changes as used by Jeff.
 
+CONFIG.TXT configures MUST be on the SD card in order to set the correct serial data rate for the logger.
+
